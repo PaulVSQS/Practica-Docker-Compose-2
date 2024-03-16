@@ -1,0 +1,4 @@
+MYSQL_ROOT_PASSWORD=contraseña_root
+MYSQL_DATABASE=nombre_basedatos
+MYSQL_USER=usuario
+MYSQL_PASSWORD=contraseña_usuario
